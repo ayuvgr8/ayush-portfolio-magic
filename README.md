@@ -1,5 +1,5 @@
 
-# Ayush Verma — AI Product Engineer & LLM Builder  
+# Ayush Verma — AI Product Engineer & LLM Power Apps Builder  
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME%2Fportfolio)
 
 🚀 Personal portfolio showcasing **AI-powered products, LLM applications, and real-world product engineering work** — from idea → architecture → shipping.
